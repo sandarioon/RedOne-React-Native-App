@@ -1,0 +1,427 @@
+{
+  "menu": {
+    "categories": [
+      { "id": 1, "name": "Согревающий" },
+      { "id": 2, "name": "Чай" },
+      { "id": 3, "name": "Не Кофе" },
+      { "id": 4, "name": "С Молоком" },
+      { "id": 5, "name": "Черный" }
+    ],
+    "modifications": [
+      { "id": 1, "name": "35 мл" },
+      { "id": 2, "name": "200 мл" },
+      { "id": 3, "name": "230 мл" },
+      { "id": 4, "name": "300 мл" },
+      { "id": 5, "name": "400 мл" },
+      { "id": 6, "name": "600 мл" }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "name": "Цитрусовый раф",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 240
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Облепиха-Апельсин",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Халва-Малина",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 240
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Пряная Вишня",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Сырный Капуч",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 240
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Каскара",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 1,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 210
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Гречишный",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 170
+          },
+          {
+            "modId": 5,
+            "price": 200
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Алтай",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 170
+          },
+          {
+            "modId": 5,
+            "price": 200
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Ягодный",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 180
+          },
+          {
+            "modId": 5,
+            "price": 210
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Китайский (Черный)",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 170
+          },
+          {
+            "modId": 5,
+            "price": 190
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Китайский (Зеленый)",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 170
+          },
+          {
+            "modId": 5,
+            "price": 190
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Китайский (Пуэр)",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 2,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 170
+          },
+          {
+            "modId": 5,
+            "price": 190
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Матча Латте",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 3,
+        "modsList": [
+          {
+            "modId": 2,
+            "price": 180
+          },
+          {
+            "modId": 4,
+            "price": 200
+          },
+          {
+            "modId": 5,
+            "price": 220
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Какао",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 3,
+        "modsList": [
+          {
+            "modId": 2,
+            "price": 190
+          },
+          {
+            "modId": 4,
+            "price": 210
+          },
+          {
+            "modId": 5,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Флэт Уайт",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 4,
+        "modsList": [
+          {
+            "modId": 2,
+            "price": 190
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Капучино",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 4,
+        "modsList": [
+          {
+            "modId": 2,
+            "price": 180
+          },
+          {
+            "modId": 4,
+            "price": 200
+          },
+          {
+            "modId": 5,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Латте",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 4,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 200
+          },
+          {
+            "modId": 5,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Раф",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 4,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 240
+          },
+          {
+            "modId": 5,
+            "price": 260
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Мокко",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 4,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 240
+          },
+          {
+            "modId": 5,
+            "price": 260
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Эспрессо",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 5,
+        "modsList": [
+          {
+            "modId": 1,
+            "price": 150
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Американо",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 5,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 160
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Черный гранат",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 5,
+        "modsList": [
+          {
+            "modId": 4,
+            "price": 210
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Воронка",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 5,
+        "modsList": [
+          {
+            "modId": 3,
+            "price": 230
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Фильтр",
+        "description": "Молочный напиток на основе латте, с цитрусовой ноткой и мягким мороженым",
+        "categoryId": 5,
+        "modsList": [
+          {
+            "modId": 2,
+            "price": 170
+          },
+          {
+            "modId": 4,
+            "price": 190
+          },
+          {
+            "modId": 5,
+            "price": 210
+          }
+        ]
+      }
+    ]
+  },
+  "promo": [
+    {
+      "id": 1,
+      "title": "Черный кофе со скидкой по выходным!",
+      "body": "Порадуй себя настоящим вкусом specialty кофе. Скидка до 50% на весь черный кофе по выходным дням!",
+      "hidden": false
+    },
+    {
+      "id": 2,
+      "title": "Бесплатный кофе в день рождения",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "hidden": false
+    },
+    {
+      "id": 3,
+      "title": "Where does it come from?",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "hidden": false
+    },
+    {
+      "id": 4,
+      "title": "Секретная акция!",
+      "body": "Акция доступна только при переходе из PUSH-уведомления",
+      "hidden": true
+    },
+    {
+      "id": 5,
+      "title": "Where can I get some?",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+      "hidden": false
+    },
+    {
+      "id": 6,
+      "title": "Черный кофе со скидкой по выходным!",
+      "body": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+      "hidden": false
+    },
+    {
+      "id": 7,
+      "title": "Черный кофе со скидкой по выходным!",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "hidden": false
+    },
+    {
+      "id": 8,
+      "title": "Черный кофе со скидкой по выходным!",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "hidden": false
+    }
+  ]
+}
